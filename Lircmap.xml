@@ -43,7 +43,7 @@
 		<hash></hash>
 		<clear>dvdaudio</clear> <!-- Add/Delete -->
 		<mytv>vcr</mytv>
-		<mymusic>radio</mymusic>
+		<mymusic>music</mymusic>
 		<mypictures>photo</mypictures>
 		<myvideo>dvd</myvideo>
 	</remote>
