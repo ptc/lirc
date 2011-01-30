@@ -1,0 +1,50 @@
+<lircmap>
+	<remote device="Medion_X10">
+		<pause>pause</pause> <!-- Pause -->
+		<stop>stop</stop> <!-- Stop -->
+		<play>play</play> <!-- Play -->
+		<forward>forward</forward> <!-- FF -->
+		<reverse>reward</reverse> <!-- Rew -->
+		<left>left</left> <!-- Left -->
+		<right>right</right> <!-- Right -->
+		<up>up</up> <!-- Up -->
+		<down>down</down> <!-- Down -->
+		<select>ok</select> <!-- Enter -->
+		<pageplus></pageplus> <!-- Page Up -->
+		<pageminus></pageminus> <!-- Page Down -->
+		<back>del</back> <!-- A/B -->
+		<menu>dvdmenu</menu> <!-- Top -->
+		<title>setup</title> <!-- End -->
+		<acquire>acquire</acquire>
+		<info>txt</info> <!-- Find -->
+		<skipplus>skipf</skipplus> <!-- Scan- -->
+		<skipminus>skipr</skipminus> <!-- Scan+ -->
+		<display>fullscreen</display> <!-- Playing -->
+		<start>list</start> <!-- Select -->
+		<record>rec</record> <!-- Rec -->
+		<mute>mute</mute> <!-- M/All off -->
+		<power>off</power> <!-- Power/All Lts on -->
+		<one>1</one> <!-- 1 -->
+		<two>2</two> <!-- 2 --> 
+		<three>3</three> <!-- 3 -->
+		<four>4</four> <!-- 4 -->
+		<five>5</five> <!-- 5 -->
+		<six>6</six> <!-- 6 -->
+		<seven>7</seven> <!-- 7 -->
+		<eight>8</eight> <!-- 8 -->
+		<nine>9</nine> <!-- 9 -->
+		<zero>0</zero> <!-- 0 -->
+		<channelplus>ch+</channelplus> <!-- CH+ -->
+		<channelminus>ch-</channelminus> <!-- CH- -->
+		<volumeplus>vol+</volumeplus> <!-- VOL+ (volume commands are reversed) -->
+		<volumeminus>vol-</volumeminus> <!-- VOL- (volume commands are reversed) -->
+		<livetv>tv</livetv> <!-- Playlist -->
+		<star></star>
+		<hash></hash>
+		<clear>dvdaudio</clear> <!-- Add/Delete -->
+		<mytv>vcr</mytv>
+		<mymusic>radio</mymusic>
+		<mypictures>photo</mypictures>
+		<myvideo>dvd</myvideo>
+	</remote>
+</lircmap>
