@@ -1,0 +1,7 @@
+Lirc + XBMC Stuff for Medion X10 Remote Controll
+P/N: 20018071
+
+.xbmc/userdata/Lircmap.xml
+.xbmc/keymaps/remote.xml
+/etc/lirc/hardware.conf
+/etc/lirc/lircd-medion-x10.conf
